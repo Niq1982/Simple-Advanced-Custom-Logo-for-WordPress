@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Advanced Custom Logo
-Plugin URI: http://niq.kapsi.fi
+Plugin URI: https://github.com/Niq1982/Simple-Advanced-Custom-Logo-for-WordPress
 Description: Add more logos to your site.
 Author: Niku Hietanen
 Version: 1.0.0
